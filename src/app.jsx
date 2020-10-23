@@ -50,7 +50,7 @@ export const App = () => {
         <StoreProvider>
             <img src="https://cf.ltkcdn.net/dogs/images/orig/236742-1600x1030-cutest-puppy-videos.jpg" alt="husky" height="250px"/>
             <CommentList/>
-            <InputComment />
         </StoreProvider>
+            <InputComment />
         </>
 }
